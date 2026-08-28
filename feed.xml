@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+  <channel>
+    <title>Uploaded Podcasts</title>
+    <link>https://twc0517.github.io/podfeed/</link>
+    <language>en-us</language>
+    <itunes:author>Various</itunes:author>
+    <itunes:summary>Custom MP3 uploads.</itunes:summary>
+    <itunes:image href="https://via.placeholder.com/1400x1400.png"/>
+  </channel>
+</rss>
